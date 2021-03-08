@@ -1,0 +1,20 @@
+{
+    "duration_desc": {
+        "offset-start-ms": 1000,
+        "dead-time-ms": 0,
+        "active-time-ms": 50
+    },
+    "transition_desc": {
+        "algo" : "hard"
+    },
+    "image_desc": {
+        "placement": {
+            "offset-x": 0,
+            "offset-y": 0
+        },
+        "size": {
+            "size-x": 100,
+            "size-y": 100
+        }
+    }
+}
